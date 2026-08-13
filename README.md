@@ -104,9 +104,9 @@ sentiment-analysis-shopee/
 ├── shopee_reviews.csv
 ├── hasil_prediksi_shopee.csv
 └── README.md
+```
 
-
-👩‍💻 Author
+##👩‍💻 Author
 
 Puja Widyasti
 
